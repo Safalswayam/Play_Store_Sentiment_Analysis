@@ -120,7 +120,7 @@ jupyter notebook
 
 **Safal Swayam**  
 📘 MCA @ KIIT | 🧠 AI Enthusiast | 🤖 Data Analyst & NLP Explorer  
-📫 [LinkedIn](https://www.linkedin.com/in/safal-swayam/) • 🌐 [Portfolio](https://your-portfolio-link.com)
+📫 [LinkedIn](https://www.linkedin.com/in/safal-swayam-530025304) • 🌐 [Portfolio](https://safalswayam.wixstudio.com/portfolio)
 
 ---
 
